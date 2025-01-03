@@ -1,0 +1,16 @@
+{
+  "name": "united-transindo-admin-panel",
+  "version": "1.0.0",
+  "description": "United Transindo Admin Panel",
+  "main": "app.js",
+  "repository": "https://github.com/cihldirm/united-transindo-admin-panel",
+  "author": "",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
